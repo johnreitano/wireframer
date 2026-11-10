@@ -1,0 +1,16 @@
+{
+  "name": "wireframer",
+  "owner": {
+    "name": "John Reitano"
+  },
+  "metadata": {
+    "description": "Guided app wireframing for Claude Code and Claude Design"
+  },
+  "plugins": [
+    {
+      "name": "wireframer",
+      "source": "./plugins/wireframer",
+      "description": "Walks you from an app idea to a clickable screen flow, then to Claude Design mock-ups, suggesting each next step as you go."
+    }
+  ]
+}
